@@ -3182,3 +3182,1073 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.12-10.26.06:902][342]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel03CDD1D64C391694B49122A421E55339.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
 [2021.10.12-10.26.06:920][342]AssetCheck: New page: Asset Save: BendsLevel
 [2021.10.12-10.26.06:921][342]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-10.36.06:994][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.10.12-10.36.06:997][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BendMappen/Level/BendsLevel' took 0.022
+[2021.10.12-10.36.06:997][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/SuckLight] ([1] browsable assets)...
+[2021.10.12-10.36.07:022][719]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/SuckLight.SuckLight]
+[2021.10.12-10.36.07:022][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/SuckLight]
+[2021.10.12-10.36.07:027][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/SuckLight_Auto2ED0C8F004C94FA44A995D3AAFD0CCC0C.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/Materials/SuckLight_Auto2.uasset'
+[2021.10.12-10.36.07:028][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Texture/Table/Table_Roughness] ([1] browsable assets)...
+[2021.10.12-10.36.07:035][719]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/BendMappen/Texture/Table/Table_Roughness.Table_Roughness]
+[2021.10.12-10.36.07:035][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Texture/Table/Table_Roughness]
+[2021.10.12-10.36.07:043][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Table_Roughness_Auto29D45311E4C9AA735D54D118E2AC57F50.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Texture/Table/Table_Roughness_Auto2.uasset'
+[2021.10.12-10.36.07:045][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Models/CanCanBroken] ([1] browsable assets)...
+[2021.10.12-10.36.07:068][719]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BendMappen/Models/CanCanBroken.CanCanBroken]
+[2021.10.12-10.36.07:068][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Models/CanCanBroken]
+[2021.10.12-10.36.07:077][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/CanCanBroken_Auto29494328C4361EC213693AFB4F90CBFE2.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Models/CanCanBroken_Auto2.uasset'
+[2021.10.12-10.36.07:079][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Materials/Sfuel] ([1] browsable assets)...
+[2021.10.12-10.36.07:099][719]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BendMappen/Materials/Sfuel.Sfuel]
+[2021.10.12-10.36.07:099][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Materials/Sfuel]
+[2021.10.12-10.36.07:105][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Sfuel_Auto267C5CD60409CECBA31B755A529089A99.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Materials/Sfuel_Auto2.uasset'
+[2021.10.12-10.36.07:106][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Materials/MetalPart] ([1] browsable assets)...
+[2021.10.12-10.36.07:127][719]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BendMappen/Materials/MetalPart.MetalPart]
+[2021.10.12-10.36.07:127][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Materials/MetalPart]
+[2021.10.12-10.36.07:133][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/MetalPart_Auto2E5BB0338423B592CA09BA7AF49724C87.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Materials/MetalPart_Auto2.uasset'
+[2021.10.12-10.36.07:134][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Models/CanCan] ([1] browsable assets)...
+[2021.10.12-10.36.07:153][719]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BendMappen/Models/CanCan.CanCan]
+[2021.10.12-10.36.07:153][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Models/CanCan]
+[2021.10.12-10.36.07:162][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/CanCan_Auto2EF0EB065494745E85EAE0AAF8C34D3A8.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Models/CanCan_Auto2.uasset'
+[2021.10.12-10.36.07:163][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Materials/SuperSoda] ([1] browsable assets)...
+[2021.10.12-10.36.07:183][719]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BendMappen/Materials/SuperSoda.SuperSoda]
+[2021.10.12-10.36.07:183][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Materials/SuperSoda]
+[2021.10.12-10.36.07:190][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/SuperSoda_Auto2EF52D3594896C40EAD51528BA62A47A8.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Materials/SuperSoda_Auto2.uasset'
+[2021.10.12-10.36.07:199][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Models/SfuelCan] ([1] browsable assets)...
+[2021.10.12-10.36.07:218][719]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BendMappen/Models/SfuelCan.SfuelCan]
+[2021.10.12-10.36.07:218][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Models/SfuelCan]
+[2021.10.12-10.36.07:227][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/SfuelCan_Auto293D0F45B4BC071B59C9D0BA76C0F9598.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Models/SfuelCan_Auto2.uasset'
+[2021.10.12-10.36.07:228][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Models/SfuelBroken] ([1] browsable assets)...
+[2021.10.12-10.36.07:248][719]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BendMappen/Models/SfuelBroken.SfuelBroken]
+[2021.10.12-10.36.07:248][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Models/SfuelBroken]
+[2021.10.12-10.36.07:258][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/SfuelBroken_Auto2A020E0CA44E1F6E3D1568F8CB4F92852.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Models/SfuelBroken_Auto2.uasset'
+[2021.10.12-10.36.07:259][719]LogFileHelpers: Auto-saving content packages took 0.261
+[2021.10.12-11.30.01:427][161]LogEditorViewport: Clicking on Actor (LMB): Trash_C (Trash53)
+[2021.10.12-11.30.25:817][909]LogEditorFactories: Performing atomic reimport of [C:/Users/Benna/OneDrive/Dokument/3D Models/Table.fbx]
+[2021.10.12-11.30.25:858][909]LogFbx: Loading FBX Scene from C:/Users/Benna/OneDrive/Dokument/3D Models/Table.fbx
+[2021.10.12-11.30.25:865][909]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.12-11.30.25:867][909]LogStaticMesh: Building static mesh Table...
+[2021.10.12-11.30.25:897][909]LogStaticMesh: Built static mesh [0.03s] /Engine/Transient.Table
+[2021.10.12-11.30.25:927][909]LogFbx: Display: Triangulating static mesh Cube.001
+[2021.10.12-11.30.25:960][909]LogStaticMesh: Building static mesh Table...
+[2021.10.12-11.30.25:974][909]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Table.Table
+[2021.10.12-11.30.25:994][909]LogEditorFactories: -- imported successfully
+[2021.10.12-11.30.25:997][909]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.10.12-11.30.27:038][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.12-11.31.17:351][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.10.12-11.31.17:382][602]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel_Auto3759A6E654418B3C8AAEACEA351DD0BC8.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Level/BendsLevel_Auto3.umap'
+[2021.10.12-11.31.17:383][602]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BendMappen/Level/BendsLevel' took 0.051
+[2021.10.12-11.31.17:383][602]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2021.10.12-11.31.17:384][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Table] ([1] browsable assets)...
+[2021.10.12-11.31.17:407][602]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Table.Table]
+[2021.10.12-11.31.17:407][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Table]
+[2021.10.12-11.31.17:414][602]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Table_Auto3D2343D5D4A7B4C3C621900B9063D8048.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/Models/Table_Auto3.uasset'
+[2021.10.12-11.31.17:414][602]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.10.12-11.36.05:905][839]LogEditorViewport: Clicking on Actor (LMB): Trash_C (Trash52)
+[2021.10.12-11.40.40:917][768]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Benna\OneDrive\Dokument\QuixelMixer\Quixel\Table\Table_AO.png)
+[2021.10.12-11.40.41:035][768]LogTexture: Display: Building textures: Table_AO (OODLE_AutoDXT, 2048X2048)
+[2021.10.12-11.40.41:422][768]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.12-11.40.41:422][768]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.12-11.40.51:163][285]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BendMappen/Materials/Table.Table
+[2021.10.12-11.40.51:165][285]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 1B418EE2BA4C4F27E5BC9E339466CF358B4103A3), compiling. 
+[2021.10.12-11.40.51:186][285]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.12-11.40.51:186][285]LogShaderCompilers: Display: Total job queries 1436, among them cache hits 841 (58.57%)
+[2021.10.12-11.40.51:186][285]LogShaderCompilers: Display: Tracking 575 distinct input hashes that result in 176 distinct outputs (30.61%)
+[2021.10.12-11.40.51:186][285]LogShaderCompilers: Display: RAM used: 1.04 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2021.10.12-11.40.51:186][285]LogShaderCompilers: Display: ================================================
+[2021.10.12-11.40.51:231][285]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: F533D7F773871356114C98EE9E61A928AD6C31D0), compiling. 
+[2021.10.12-11.40.51:234][285]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: BA0F2C4B2CF3B668C97E042D90DE2860FF377D0F), compiling. 
+[2021.10.12-11.40.51:236][285]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B893B2CBCBAA78E917088526CCB7CA729D5D20DE), compiling. 
+[2021.10.12-11.40.51:237][285]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B7F2D0B889A1A3BCC18F7B8BFF5EEAED0E03A85A), compiling. 
+[2021.10.12-11.40.51:238][285]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8C6F32193BD6C1EDE52717E49EF604AFBFD9E96A), compiling. 
+[2021.10.12-11.40.51:248][285]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.40.51:248][285]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.40.51:249][285]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.40.51:314][286]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.40.51:314][286]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.40.51:314][286]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.40.51:314][286]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.40.51:315][286]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.40.51:315][286]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.40.51:315][286]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.40.51:315][286]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.40.51:315][286]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.40.51:315][286]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.40.51:440][293]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.40.51:440][293]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.10.12-11.40.51:440][293]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.10.12-11.40.51:440][293]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.40.53:295][402]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.40.53:295][402]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.40.53:295][402]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.40.54:554][476]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.40.54:554][476]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2021.10.12-11.40.54:555][476]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.40.54:555][476]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.40.54:555][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.40.54:555][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.01:008][860]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: F102B6F9B8F084E253ACCDA376F4E900004E1CC6), compiling. 
+[2021.10.12-11.41.01:009][860]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 97AF6E3B716C14B4C8938F5BAED3BE65E76DCA38), compiling. 
+[2021.10.12-11.41.01:011][860]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E419F08E8D24CD8026A91B070A1960616A71D630), compiling. 
+[2021.10.12-11.41.01:012][860]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 96C3EEBB1E3C743820B6F44BC7549FF6AC94C070), compiling. 
+[2021.10.12-11.41.01:014][860]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 542B32E2F0B479C2F975BC4A6BA591ED16CF673A), compiling. 
+[2021.10.12-11.41.01:015][860]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: ECA35D2C405F747B931FF96B3FBFF8F926757B2D), compiling. 
+[2021.10.12-11.41.01:019][860]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.01:019][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.41.01:019][860]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.01:057][861]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.41.01:057][861]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2021.10.12-11.41.01:057][861]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.41.01:057][861]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.41.01:057][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.41.01:057][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.01:094][861]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.01:094][861]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.41.01:094][861]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.41.01:094][861]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.08:941][329]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 490CA276551697C3B2DC760ABA8FC7DAE7BF4C11), compiling. 
+[2021.10.12-11.41.08:944][329]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 69806E504D0123C6CB832F2EA6E28295D5353EC7), compiling. 
+[2021.10.12-11.41.08:948][329]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.08:948][329]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.08:948][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.08:955][330]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.08:961][331]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.41.08:961][331]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.41.08:961][331]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.41.08:961][331]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.41.08:961][331]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.41.08:961][331]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.41.08:961][331]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.41.08:961][331]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.41.08:961][331]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.10:156][391]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.41.10:156][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.10:156][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.10:723][425]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.10:724][425]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.10:724][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.11:156][451]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.41.11:156][451]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.41.11:156][451]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.41.11:156][451]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.11:156][451]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.11:156][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.13:778][607]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 3744FBFCDD48C2996CB41003A9B932D29E178262), compiling. 
+[2021.10.12-11.41.13:779][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A0E755615162192AB33412247CB15B4C0C10D62), compiling. 
+[2021.10.12-11.41.13:781][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: AAFFC35C027572878EA197F62B681514245617C6), compiling. 
+[2021.10.12-11.41.13:786][607]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.13:786][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.13:786][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.13:839][609]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.41.13:839][609]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.41.13:839][609]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.41.13:839][609]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.13:839][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.13:839][609]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.20:827][ 26]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 69AF0EB042470A60AA0C2D7080FF81B29A60635D), compiling. 
+[2021.10.12-11.41.20:828][ 26]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: CDF30F3C9C4F02DD6DE6E824C0A65793770601AE), compiling. 
+[2021.10.12-11.41.20:832][ 26]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 528FEA71F938CEBE0AA74863A487E811DCE20F87), compiling. 
+[2021.10.12-11.41.20:835][ 26]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 41A5CE92CEDC2F3FF29AC3E1597C70EEF68F59F5), compiling. 
+[2021.10.12-11.41.20:840][ 26]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.20:840][ 26]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.20:840][ 26]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.20:883][ 28]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.41.20:883][ 28]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.41.20:883][ 28]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.41.20:883][ 28]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.20:883][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.20:883][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.23:878][207]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: D59B7783B4D93082D7CFD72C325131D0A1CB24C6), compiling. 
+[2021.10.12-11.41.23:880][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 3B6544F9BACF6076164D09201E9F53D01F0AF414), compiling. 
+[2021.10.12-11.41.23:885][207]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.23:885][207]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.23:885][207]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.23:911][209]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.41.23:911][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.23:911][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.23:926][210]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.41.23:926][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.41.23:926][210]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.41.23:926][210]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.23:927][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.41.23:927][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.25:652][313]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: B94CEB27F909FEFF6002FC85E8AC6857FEDBBFD0), compiling. 
+[2021.10.12-11.41.25:656][313]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.25:656][313]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.25:656][313]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.25:663][314]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.25:674][315]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.41.25:674][315]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.41.25:674][315]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.25:674][315]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.41.25:674][315]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.41.25:674][315]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.41.25:674][315]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.41.25:674][315]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.41.25:674][315]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.41.26:838][381]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.26:838][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.26:838][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.27:824][440]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.10.12-11.41.27:824][440]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.41.27:824][440]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.41.27:824][440]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.27:824][440]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.27:824][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.32:304][707]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: AEE46EE9625730668D639897A4EBA2FF7C5A0ADC), compiling. 
+[2021.10.12-11.41.32:305][707]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E9A13023AD20CE006E8AC6C44DCDFA8C2828A0D), compiling. 
+[2021.10.12-11.41.32:310][707]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.32:310][707]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.32:310][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.32:315][708]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.32:325][709]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.41.32:325][709]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.41.32:325][709]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.41.32:325][709]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.41.32:325][709]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.41.32:325][709]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.41.32:325][709]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.41.32:325][709]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.41.32:325][709]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.33:555][781]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.33:555][781]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.33:555][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.34:457][835]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.10.12-11.41.34:457][835]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.41.34:457][835]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.41.34:457][835]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.34:457][835]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.34:457][835]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.36:744][972]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 43A57C42DF9061618076CF685C6E896484F5FD5C), compiling. 
+[2021.10.12-11.41.36:745][972]LogMaterial: Warning: [AssetLog] /Engine/Transient.Table (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.12-11.41.36:745][972]LogMaterial: Display: 	(Node Add) Arithmetic between types float3 and float4 are undefined
+[2021.10.12-11.41.36:746][972]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 6907E25DE03E7ACEAA031D2A970F5115E62C8DDC), compiling. 
+[2021.10.12-11.41.36:753][972]MaterialEditorStats: Error: [SM5] (Node Add) Arithmetic between types float3 and float4 are undefined
+[2021.10.12-11.41.39:285][123]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: F18907DEFE38BE1577B1084DB6E828E986F8B46C), compiling. 
+[2021.10.12-11.41.39:287][123]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 954C466526A521363B89829E8A5250A439626F36), compiling. 
+[2021.10.12-11.41.39:293][123]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.39:293][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.39:293][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.39:339][125]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.10.12-11.41.39:339][125]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.41.39:340][125]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.41.39:340][125]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.39:340][125]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.39:340][125]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.44:000][404]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: EA19993BCF91CDD86CD8B01E961DA0AC75BA782A), compiling. 
+[2021.10.12-11.41.44:002][404]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 178F3504515F0C32AE85BEB48EC4A09A7255591A), compiling. 
+[2021.10.12-11.41.44:007][404]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.44:007][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.44:007][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.44:033][406]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.44:033][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.44:033][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.44:050][407]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.10.12-11.41.44:050][407]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.41.44:050][407]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.41.44:050][407]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.41.44:050][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.41.44:050][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.57:779][230]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: ECE8B3DD9E137CF80D0F58368D7164A2402A5FD1), compiling. 
+[2021.10.12-11.41.57:781][230]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.41.57:781][230]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.41.57:781][230]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.41.57:823][231]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.57:823][231]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.41.57:823][231]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.41.57:823][231]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.41.57:823][231]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.41.57:823][231]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.41.57:823][231]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.41.57:823][231]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.41.57:823][231]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.41.57:824][231]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.41.59:751][314]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.12-11.41.59:751][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.41.59:751][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.00:521][348]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.42.00:521][348]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.42.00:521][348]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.01:338][375]MaterialEditorStats: Base pass shader: 125 instructions
+[2021.10.12-11.42.01:338][375]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.10.12-11.42.01:338][375]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.42.01:338][375]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.42.01:338][375]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.42.01:339][375]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.21:576][ 68]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: F8C4B40F4837CDEEE98C99E7821EF435BA2B0F6B), compiling. 
+[2021.10.12-11.42.21:579][ 68]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: A3A7941C49AAA8626318BB3BC53551D797C279FC), compiling. 
+[2021.10.12-11.42.21:581][ 68]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F620A2BECACBCA95E29EF3BC5D2255D61429ED2A), compiling. 
+[2021.10.12-11.42.21:587][ 68]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.42.21:587][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.42.21:587][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.21:633][ 70]MaterialEditorStats: Base pass shader: 125 instructions
+[2021.10.12-11.42.21:634][ 70]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.10.12-11.42.21:634][ 70]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.42.21:634][ 70]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.42.21:634][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.42.21:634][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.25:077][275]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: A2DCBA470367D567778D0BED09B864CE6AF18D9A), compiling. 
+[2021.10.12-11.42.25:088][275]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 3E712594B0B5E88C43FB24EFFB4CEEC61D228F4F), compiling. 
+[2021.10.12-11.42.25:091][275]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.42.25:091][275]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.42.25:091][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.25:119][277]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.12-11.42.25:119][277]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.42.25:119][277]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.25:147][278]MaterialEditorStats: Base pass shader: 125 instructions
+[2021.10.12-11.42.25:147][278]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.10.12-11.42.25:147][278]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.42.25:147][278]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.42.25:147][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.10.12-11.42.25:147][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.34:537][831]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: F2E64C1053DF49F7A332747DF23C9D52A5484CAF), compiling. 
+[2021.10.12-11.42.34:541][831]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.42.34:541][831]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.42.34:541][831]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.34:550][832]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.42.34:562][833]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.42.34:562][833]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.42.34:562][833]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.42.34:562][833]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.42.34:603][835]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.42.34:603][835]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.42.34:603][835]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.42.34:603][835]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.42.34:603][835]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.42.37:453][984]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.42.37:453][984]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.42.37:453][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.38:932][ 65]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.10.12-11.42.38:932][ 65]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.42.38:932][ 65]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.42.38:932][ 65]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.42.38:932][ 65]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.42.38:932][ 65]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.52:187][855]LogMaterialEditor: Saving and Compiling material Table
+[2021.10.12-11.42.52:751][855]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: F39DD715715ED935F017A87DFEB31CA1E6577E50), compiling. 
+[2021.10.12-11.42.52:797][855]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6390CAAAEB44C707BA8C24875841D04EF30F60), compiling. 
+[2021.10.12-11.42.52:839][855]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2021.10.12-11.42.52:844][855]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2021.10.12-11.42.52:846][855]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.10.12-11.42.52:846][855]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.10.12-11.42.52:846][855]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.10.12-11.42.52:846][855]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.10.12-11.42.52:846][855]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.10.12-11.42.52:846][855]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.10.12-11.42.52:846][855]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.42.52:873][855]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2021.10.12-11.42.53:580][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.10.12-11.42.53:789][855]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/TableC998F6294B8B8C63673405A61F442C4E.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Materials/Table.uasset'
+[2021.10.12-11.42.53:805][855]AssetCheck: New page: Asset Save: Table
+[2021.10.12-11.42.53:806][855]LogContentValidation: Display: Validating Material /Game/BendMappen/Materials/Table.Table
+[2021.10.12-11.42.53:807][855]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.10.12-11.42.53:807][855]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.42.53:807][855]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.42.53:807][855]MaterialEditorStats: Texture samplers: 7/16
+[2021.10.12-11.42.53:808][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.42.53:808][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.42.55:259][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.12-11.43.02:807][389]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: CB2ECA594144D868CDDDECD4030FED4472C4FE74), compiling. 
+[2021.10.12-11.43.02:811][389]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.43.02:811][389]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.02:811][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.02:819][390]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.43.02:830][391]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.43.02:830][391]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.43.02:831][391]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.43.02:831][391]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.43.02:831][391]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.43.02:831][391]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.43.02:831][391]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.43.02:831][391]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.43.02:831][391]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.43.04:828][487]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.43.04:828][487]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.04:828][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.05:600][526]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 80AB19EFE1A28764B03E0BE6B22A76BA4AD348CE), compiling. 
+[2021.10.12-11.43.05:607][526]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 96DBF6FAF7AD46DDF2A94BD43B634DEB2B13AD57), compiling. 
+[2021.10.12-11.43.05:617][526]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.43.05:617][526]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.43.05:617][526]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.05:659][528]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.05:659][528]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.43.05:659][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.05:694][529]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.10.12-11.43.05:694][529]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.43.05:694][529]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.43.05:694][529]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.05:694][529]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.43.05:694][529]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.12:029][899]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: DB900B2BFA797A903D712B2E55804BC9FC47E0B8), compiling. 
+[2021.10.12-11.43.12:034][899]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 8F4917472595D915DCE2880A48EB520F18A5CF00), compiling. 
+[2021.10.12-11.43.12:036][899]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.43.12:036][899]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.43.12:036][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.12:062][901]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.12:062][901]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.43.12:062][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.12:081][902]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.10.12-11.43.12:081][902]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.43.12:081][902]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.43.12:081][902]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.12:081][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.43.12:081][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.14:608][ 53]LogMaterialEditor: Saving and Compiling material Table
+[2021.10.12-11.43.15:028][ 53]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: D3E44CBD730A6E62A22FE6D2E5BCC804E4847579), compiling. 
+[2021.10.12-11.43.15:060][ 53]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: E57F80CFFA28130AB03C764B70DCF563FC9866BC), compiling. 
+[2021.10.12-11.43.15:083][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.10.12-11.43.15:234][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.12-11.43.15:298][ 53]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Table8C07DD1C4F488FBA119927ABCC6406EC.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Materials/Table.uasset'
+[2021.10.12-11.43.15:320][ 53]AssetCheck: New page: Asset Save: Table
+[2021.10.12-11.43.15:320][ 53]LogContentValidation: Display: Validating Material /Game/BendMappen/Materials/Table.Table
+[2021.10.12-11.43.15:322][ 53]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.10.12-11.43.15:322][ 53]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.43.15:322][ 53]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.43.15:322][ 53]MaterialEditorStats: Texture samplers: 7/16
+[2021.10.12-11.43.15:322][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.43.15:322][ 53]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.29:034][871]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 4C1BCA72F0263C142D66CB98183C906534522CB5), compiling. 
+[2021.10.12-11.43.29:039][871]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.43.29:039][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.29:039][871]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.29:047][872]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.43.29:058][873]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.43.29:058][873]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.43.29:058][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.43.29:058][873]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.43.29:096][875]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.43.29:096][875]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.43.29:097][875]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.43.29:097][875]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.43.29:097][875]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.43.32:232][ 35]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.43.32:232][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.32:233][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.33:063][ 78]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.33:063][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.33:063][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.33:978][130]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.43.33:978][130]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.43.33:978][130]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.43.33:978][130]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.33:978][130]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.33:978][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.37:455][336]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 88177438833F2F961F91871A86C9C1ACAEE78171), compiling. 
+[2021.10.12-11.43.37:459][336]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 90F4DFA2D65477B92636E1E8F7F0B5473BED7A78), compiling. 
+[2021.10.12-11.43.37:461][336]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D542F2C5917D5B6F6BEE5998D4441B7EBD3C5BA), compiling. 
+[2021.10.12-11.43.37:466][336]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.43.37:466][336]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.37:466][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.37:520][338]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.43.37:520][338]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.43.37:520][338]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.43.37:520][338]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.37:520][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.37:520][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.42:047][607]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: C79D32A789FB79A414D20F3BBC20AC24B1579081), compiling. 
+[2021.10.12-11.43.42:053][607]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.43.42:053][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.42:053][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.42:111][609]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.42:111][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.42:111][609]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.42:129][610]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.43.42:129][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.43.42:129][610]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.43.42:129][610]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.42:129][610]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.42:129][610]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.48:973][ 12]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 10A1B628939497AA96B364449B9A36824A509456), compiling. 
+[2021.10.12-11.43.48:978][ 12]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.43.48:978][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.48:978][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.49:004][ 14]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.43.49:005][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.49:005][ 14]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.49:024][ 15]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.43.49:024][ 15]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.43.49:024][ 15]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.43.49:024][ 15]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.49:024][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.49:024][ 15]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.53:271][269]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: FBF9E7891273311E9B7259A2B6C233B898D9CA81), compiling. 
+[2021.10.12-11.43.53:275][269]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 830A13169179CA760D7752438C9FDB60E70D884E), compiling. 
+[2021.10.12-11.43.53:278][269]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.43.53:278][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.53:278][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.53:290][270]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.12-11.43.53:290][270]LogShaderCompilers: Display: Total job queries 1775, among them cache hits 1090 (61.41%)
+[2021.10.12-11.43.53:290][270]LogShaderCompilers: Display: Tracking 665 distinct input hashes that result in 223 distinct outputs (33.53%)
+[2021.10.12-11.43.53:290][270]LogShaderCompilers: Display: RAM used: 1.37 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2021.10.12-11.43.53:290][270]LogShaderCompilers: Display: ================================================
+[2021.10.12-11.43.53:304][271]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.43.53:304][271]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.53:304][271]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.53:321][272]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.43.53:321][272]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.43.53:321][272]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.43.53:321][272]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.53:321][272]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.43.53:321][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.55:848][422]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 9FD2DADF07EA4E435AB03140E44F5398B2E04D25), compiling. 
+[2021.10.12-11.43.55:853][422]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.43.55:853][422]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.43.55:853][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.43.55:862][423]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.43.55:869][424]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.43.55:869][424]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.43.55:869][424]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.43.55:869][424]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.43.55:911][426]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.43.55:911][426]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.43.55:911][426]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.43.55:911][426]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.43.55:911][426]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.43.58:477][556]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.43.58:477][556]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.43.58:477][556]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.00:361][656]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.10.12-11.44.00:361][656]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.10.12-11.44.00:361][656]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.44.00:361][656]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.44.00:361][656]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.44.00:361][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.03:254][828]LogMaterialEditor: Saving and Compiling material Table
+[2021.10.12-11.44.03:658][828]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 065B653B511BBF397C7FE35DC5C796C0D89B54CC), compiling. 
+[2021.10.12-11.44.03:692][828]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: DC966E859BA6510CCC45ABF4338B0489D3157598), compiling. 
+[2021.10.12-11.44.03:716][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.10.12-11.44.04:471][828]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.04:471][828]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.04:471][828]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.10.12-11.44.04:471][828]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.10.12-11.44.04:471][828]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.10.12-11.44.04:471][828]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.10.12-11.44.04:471][828]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.10.12-11.44.04:471][828]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.10.12-11.44.04:471][828]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.04:519][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.12-11.44.04:743][828]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/TableA80A638442F4A35508D6C5B53288695E.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Materials/Table.uasset'
+[2021.10.12-11.44.04:762][828]AssetCheck: New page: Asset Save: Table
+[2021.10.12-11.44.04:762][828]LogContentValidation: Display: Validating Material /Game/BendMappen/Materials/Table.Table
+[2021.10.12-11.44.04:763][828]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.10.12-11.44.04:763][828]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.10.12-11.44.04:763][828]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.44.04:763][828]MaterialEditorStats: Texture samplers: 7/16
+[2021.10.12-11.44.04:763][828]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.44.04:763][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.07:865][ 13]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: F79766C932E5D4DAF48F8221B87846B6472AE313), compiling. 
+[2021.10.12-11.44.07:868][ 13]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: E76C5F9A58F8EE5B26D35F1E04D2DB2D01D1416C), compiling. 
+[2021.10.12-11.44.07:871][ 13]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.44.07:871][ 13]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.44.07:871][ 13]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.07:886][ 14]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.44.07:886][ 14]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.44.07:886][ 14]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.44.07:886][ 14]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.44.07:886][ 14]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.07:899][ 15]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.44.07:899][ 15]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.44.07:899][ 15]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.44.07:899][ 15]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.44.07:899][ 15]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.09:933][116]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.44.09:934][116]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.44.09:934][116]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.10:630][150]LogMaterialEditor: Saving and Compiling material Table
+[2021.10.12-11.44.11:241][150]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: D4014C0739104CABF035A0E9FE6B2118474FA0E8), compiling. 
+[2021.10.12-11.44.11:277][150]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 56DB8E60DF9BEE54F717A89F6E448323B8217DD9), compiling. 
+[2021.10.12-11.44.11:306][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.12-11.44.12:053][150]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.12:053][150]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.12:053][150]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.10.12-11.44.12:053][150]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.10.12-11.44.12:053][150]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.10.12-11.44.12:053][150]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.10.12-11.44.12:053][150]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.10.12-11.44.12:053][150]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.10.12-11.44.12:053][150]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.12:097][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.10.12-11.44.12:312][150]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Table2D156DF4424452C912DE85995EF3C7E3.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Materials/Table.uasset'
+[2021.10.12-11.44.12:329][150]AssetCheck: New page: Asset Save: Table
+[2021.10.12-11.44.12:329][150]LogContentValidation: Display: Validating Material /Game/BendMappen/Materials/Table.Table
+[2021.10.12-11.44.12:330][150]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.10.12-11.44.12:330][150]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.10.12-11.44.12:330][150]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.44.12:330][150]MaterialEditorStats: Texture samplers: 7/16
+[2021.10.12-11.44.12:330][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.44.12:330][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.45:321][109]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 60ECE6EB0458FA05A4B8AB9248A5E08EBC8ECEEA), compiling. 
+[2021.10.12-11.44.45:325][109]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.44.45:325][109]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.44.45:325][109]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.45:380][111]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.44.45:380][111]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.44.45:380][111]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.44.45:380][111]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.44.45:380][111]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.44.45:380][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.48:995][323]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 837984403CBE72FFC279B0D93A5D42E2484B1A0F), compiling. 
+[2021.10.12-11.44.48:998][323]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 7D0603382173D8D747B35665481B65AB8E6406AB), compiling. 
+[2021.10.12-11.44.49:001][323]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C844C3AA961480A41968113CB9FADCC1740B0D7), compiling. 
+[2021.10.12-11.44.49:006][323]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.44.49:006][323]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.44.49:006][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.49:060][325]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.44.49:060][325]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.44.49:060][325]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.44.49:060][325]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.44.49:060][325]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.44.49:060][325]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.51:738][485]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 7025A134B92887BF1F916A0BCF373B9E0228E004), compiling. 
+[2021.10.12-11.44.51:742][485]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.44.51:743][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.44.51:743][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.51:771][487]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.44.51:771][487]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.44.51:771][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.51:790][488]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.44.51:791][488]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.44.51:791][488]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.44.51:791][488]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.44.51:791][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.44.51:791][488]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.53:577][594]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: A4CB9E6B2EA28BC9A7AE6A0810F3A2543F0541C1), compiling. 
+[2021.10.12-11.44.53:584][594]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.44.53:585][594]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.44.53:585][594]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.44.53:594][595]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.44.53:619][596]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-11.44.53:619][596]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-11.44.53:619][596]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.44.53:619][596]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.53:638][597]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-11.44.53:638][597]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.12-11.44.53:639][597]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.12-11.44.53:639][597]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.12-11.44.53:639][597]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.55:711][696]LogMaterialEditor: Saving and Compiling material Table
+[2021.10.12-11.44.56:483][696]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 12756432317640D242A07106D0016EA03DEB66C3), compiling. 
+[2021.10.12-11.44.56:545][696]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: BBCE8973903A7C4C49543C4CBB152AB4F7E5E4FE), compiling. 
+[2021.10.12-11.44.56:584][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.10.12-11.44.57:759][696]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.57:759][696]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.10.12-11.44.57:759][696]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.10.12-11.44.57:759][696]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.10.12-11.44.57:759][696]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.57:759][696]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.57:759][696]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.10.12-11.44.57:759][696]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.57:760][696]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.10.12-11.44.57:760][696]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.44.57:760][696]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.10.12-11.44.57:760][696]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.12-11.44.57:812][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.10.12-11.44.57:964][696]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Table5AA10A9141865702E17AB0984ACB9426.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Materials/Table.uasset'
+[2021.10.12-11.44.57:981][696]AssetCheck: New page: Asset Save: Table
+[2021.10.12-11.44.57:981][696]LogContentValidation: Display: Validating Material /Game/BendMappen/Materials/Table.Table
+[2021.10.12-11.44.57:981][696]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.10.12-11.44.57:981][696]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.10.12-11.44.57:981][696]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.44.57:981][696]MaterialEditorStats: Texture samplers: 7/16
+[2021.10.12-11.44.57:981][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.10.12-11.44.57:981][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.45.09:684][394]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 698DC58B049A43D014F866A766D37B1924A33745), compiling. 
+[2021.10.12-11.45.09:694][394]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C0E91023C5537AEFD0D1E5D70728D94F8048C88), compiling. 
+[2021.10.12-11.45.09:698][394]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.45.09:699][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.45.09:699][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.45.09:726][396]MaterialEditorStats: Texture samplers: 5/16
+[2021.10.12-11.45.09:726][396]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.45.09:726][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.45.09:752][397]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.45.09:752][397]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.45.09:753][397]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.45.09:753][397]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.45.09:753][397]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.45.09:753][397]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.45.11:337][491]LogMaterialEditor: Saving and Compiling material Table
+[2021.10.12-11.45.11:861][491]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 10FC2EDC4FCD1C8C7D430DA44DC1EA21A7E62EDF), compiling. 
+[2021.10.12-11.45.11:905][491]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 7D38337AF64B02DD77D38B7720FDC00AB15DFA63), compiling. 
+[2021.10.12-11.45.11:936][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.10.12-11.45.12:895][491]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Normal' priority
+[2021.10.12-11.45.12:895][491]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2021.10.12-11.45.12:895][491]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.10.12-11.45.12:895][491]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.10.12-11.45.12:895][491]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.10.12-11.45.12:895][491]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.10.12-11.45.12:895][491]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.10.12-11.45.12:895][491]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.10.12-11.45.12:895][491]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.10.12-11.45.12:954][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.10.12-11.45.13:369][491]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Table5F78CCB7467BE16F7271D383B9004569.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Materials/Table.uasset'
+[2021.10.12-11.45.13:391][491]AssetCheck: New page: Asset Save: Table
+[2021.10.12-11.45.13:391][491]LogContentValidation: Display: Validating Material /Game/BendMappen/Materials/Table.Table
+[2021.10.12-11.45.13:391][491]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.45.13:391][491]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.45.13:391][491]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.45.13:391][491]MaterialEditorStats: Texture samplers: 7/16
+[2021.10.12-11.45.13:391][491]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.45.13:391][491]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.45.16:647][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.12-11.46.03:286][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanCan)
+[2021.10.12-11.46.06:708][665]Cmd: TRANSACTION UNDO
+[2021.10.12-11.46.06:708][665]LogEditorTransaction: Undo Move Actors
+[2021.10.12-11.46.06:734][665]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 8CE4B2F36E012CE9056818D0409A20920506A3B5), compiling. 
+[2021.10.12-11.46.06:750][665]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-11.46.06:750][665]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.46.06:750][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.46.06:867][668]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.10.12-11.46.06:867][668]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.10.12-11.46.06:867][668]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.10.12-11.46.06:867][668]MaterialEditorStats: Texture samplers: 6/16
+[2021.10.12-11.46.06:867][668]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.10.12-11.46.06:867][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.12-11.46.08:776][769]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane)
+[2021.10.12-11.46.09:933][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.12-11.46.10:798][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanCan)
+[2021.10.12-11.46.12:136][963]LogEditorViewport: Clicking on Actor (CTRL LMB): Trash_C (Trash50)
+[2021.10.12-11.46.12:864][  5]LogEditorViewport: Clicking on Actor (context menu): Trash_C (Trash50)
+[2021.10.12-11.46.15:006][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2021.10.12-11.46.15:561][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanCan)
+[2021.10.12-11.46.15:745][161]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanCan)
+[2021.10.12-11.46.59:804][761]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanCan)
+[2021.10.12-11.47.25:340][266]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanCan)
+[2021.10.12-11.47.39:903][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.12-11.47.42:420][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanCan)
+[2021.10.12-11.47.43:427][245]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanCan)
+[2021.10.12-11.47.45:569][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanCan)
+[2021.10.12-11.48.04:854][467]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BendMappen/Models/CanCan.CanCan
+[2021.10.12-11.48.27:123][710]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/CanCan40FE7A994B6C016F9DF830860B26D39E.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Models/CanCan.uasset'
+[2021.10.12-11.48.27:142][710]AssetCheck: New page: Asset Save: CanCan
+[2021.10.12-11.48.27:142][710]LogContentValidation: Display: Validating StaticMesh /Game/BendMappen/Models/CanCan.CanCan
+[2021.10.12-11.48.36:098][230]LogEditorFactories: Performing atomic reimport of [C:/Users/Benna/OneDrive/Dokument/3D Models/CanCan.fbx]
+[2021.10.12-11.48.36:152][230]LogFbx: Loading FBX Scene from C:/Users/Benna/OneDrive/Dokument/3D Models/CanCan.fbx
+[2021.10.12-11.48.36:169][230]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.12-11.48.36:205][230]LogFbx: Display: Triangulating static mesh Can1
+[2021.10.12-11.48.36:270][230]LogStaticMesh: Building static mesh CanCan...
+[2021.10.12-11.48.36:284][230]LogStaticMesh: Built static mesh [0.02s] /Game/BendMappen/Models/CanCan.CanCan
+[2021.10.12-11.48.36:305][230]LogEditorFactories: -- imported successfully
+[2021.10.12-11.48.37:812][302]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/CanCanA0F2A93C49328DC6881220A4AFDF69BC.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Models/CanCan.uasset'
+[2021.10.12-11.48.37:834][302]AssetCheck: New page: Asset Save: CanCan
+[2021.10.12-11.48.37:834][302]LogContentValidation: Display: Validating StaticMesh /Game/BendMappen/Models/CanCan.CanCan
+[2021.10.12-11.48.47:959][891]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/CanCan430719D344C56F166D9C318C9764C1BE.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Models/CanCan.uasset'
+[2021.10.12-11.48.47:976][891]AssetCheck: New page: Asset Save: CanCan
+[2021.10.12-11.48.47:976][891]LogContentValidation: Display: Validating StaticMesh /Game/BendMappen/Models/CanCan.CanCan
+[2021.10.12-11.48.49:993][ 11]LogEditorFactories: Performing atomic reimport of [C:/Users/Benna/OneDrive/Dokument/3D Models/CanCan.fbx]
+[2021.10.12-11.48.50:045][ 11]LogFbx: Loading FBX Scene from C:/Users/Benna/OneDrive/Dokument/3D Models/CanCan.fbx
+[2021.10.12-11.48.50:059][ 11]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.12-11.48.50:092][ 11]LogFbx: Display: Triangulating static mesh Can1
+[2021.10.12-11.48.50:163][ 11]LogStaticMesh: Building static mesh CanCan...
+[2021.10.12-11.48.50:179][ 11]LogStaticMesh: Built static mesh [0.02s] /Game/BendMappen/Models/CanCan.CanCan
+[2021.10.12-11.48.50:202][ 11]LogEditorFactories: -- imported successfully
+[2021.10.12-11.48.51:533][ 71]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/CanCan8FA638194340972F7587F0BAFA13F2AC.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Models/CanCan.uasset'
+[2021.10.12-11.48.51:561][ 71]AssetCheck: New page: Asset Save: CanCan
+[2021.10.12-11.48.51:561][ 71]LogContentValidation: Display: Validating StaticMesh /Game/BendMappen/Models/CanCan.CanCan
+[2021.10.12-11.48.59:028][505]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.12-11.49.17:648][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SfuelCan)
+[2021.10.12-11.49.17:961][625]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SfuelCan)
+[2021.10.12-11.49.27:861][190]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SfuelCan)
+[2021.10.12-11.49.33:992][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SfuelCan)
+[2021.10.12-11.49.40:322][853]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BendMappen/Models/SfuelCan.SfuelCan
+[2021.10.12-11.49.56:549][686]LogEditorFactories: Performing atomic reimport of [C:/Users/Benna/OneDrive/Dokument/3D Models/CanCan.fbx]
+[2021.10.12-11.49.56:613][686]LogFbx: Loading FBX Scene from C:/Users/Benna/OneDrive/Dokument/3D Models/CanCan.fbx
+[2021.10.12-11.49.56:632][686]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.12-11.49.56:670][686]LogFbx: Display: Triangulating static mesh Can1
+[2021.10.12-11.49.56:735][686]LogStaticMesh: Building static mesh SfuelCan...
+[2021.10.12-11.49.56:752][686]LogStaticMesh: Built static mesh [0.02s] /Game/BendMappen/Models/SfuelCan.SfuelCan
+[2021.10.12-11.49.56:776][686]LogEditorFactories: -- imported successfully
+[2021.10.12-11.49.57:717][719]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/SfuelCanEEA19ECC49FE4BC7DB9259A15546C373.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Models/SfuelCan.uasset'
+[2021.10.12-11.49.57:740][719]AssetCheck: New page: Asset Save: SfuelCan
+[2021.10.12-11.49.57:740][719]LogContentValidation: Display: Validating StaticMesh /Game/BendMappen/Models/SfuelCan.SfuelCan
+[2021.10.12-11.50.43:165][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanCanBroken)
+[2021.10.12-11.50.44:546][110]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanCanBroken)
+[2021.10.12-11.50.47:120][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.12-11.50.47:648][246]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanCanBroken)
+[2021.10.12-11.50.58:255][773]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanCanBroken)
+[2021.10.12-11.51.12:473][407]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BendMappen/Models/CanCanBroken.CanCanBroken
+[2021.10.12-11.51.40:971][681]LogEditorFactories: Performing atomic reimport of [C:/Users/Benna/OneDrive/Dokument/3D Models/CanCanBroken.fbx]
+[2021.10.12-11.51.41:040][681]LogFbx: Loading FBX Scene from C:/Users/Benna/OneDrive/Dokument/3D Models/CanCanBroken.fbx
+[2021.10.12-11.51.41:058][681]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.12-11.51.41:099][681]LogFbx: Display: Triangulating static mesh Can
+[2021.10.12-11.51.41:177][681]LogStaticMesh: Building static mesh CanCanBroken...
+[2021.10.12-11.51.41:196][681]LogStaticMesh: Built static mesh [0.02s] /Game/BendMappen/Models/CanCanBroken.CanCanBroken
+[2021.10.12-11.51.41:227][681]LogEditorFactories: -- imported successfully
+[2021.10.12-11.51.42:024][703]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/CanCanBrokenFAAA7E8F4CE7C1AE5422F4BD1E29B823.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Models/CanCanBroken.uasset'
+[2021.10.12-11.51.42:059][703]AssetCheck: New page: Asset Save: CanCanBroken
+[2021.10.12-11.51.42:059][703]LogContentValidation: Display: Validating StaticMesh /Game/BendMappen/Models/CanCanBroken.CanCanBroken
+[2021.10.12-11.52.02:473][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SfuelBroken)
+[2021.10.12-11.52.03:666][620]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SfuelBroken)
+[2021.10.12-11.52.10:731][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.10.12-11.52.10:776][894]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel_Auto4D56BFEAF4912EE8EB4675889073E5747.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Level/BendsLevel_Auto4.umap'
+[2021.10.12-11.52.10:778][894]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BendMappen/Level/BendsLevel' took 0.136
+[2021.10.12-11.52.10:778][894]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.136
+[2021.10.12-11.52.10:779][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Texture/Table/Table_AO] ([1] browsable assets)...
+[2021.10.12-11.52.10:787][894]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/BendMappen/Texture/Table/Table_AO.Table_AO]
+[2021.10.12-11.52.10:787][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Texture/Table/Table_AO]
+[2021.10.12-11.52.10:805][894]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Table_AO_Auto4A457BB1E4D0548051CB99C83B95828C2.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Texture/Table/Table_AO_Auto4.uasset'
+[2021.10.12-11.52.10:806][894]LogFileHelpers: Auto-saving content packages took 0.028
+[2021.10.12-11.52.12:266][949]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SfuelBroken)
+[2021.10.12-11.52.15:601][ 75]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SfuelBroken)
+[2021.10.12-11.52.18:951][195]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SfuelBroken)
+[2021.10.12-11.52.21:275][272]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BendMappen/Models/SfuelBroken.SfuelBroken
+[2021.10.12-11.52.38:442][911]LogEditorFactories: Performing atomic reimport of [C:/Users/Benna/OneDrive/Dokument/3D Models/CanCanBroken.fbx]
+[2021.10.12-11.52.38:518][911]LogFbx: Loading FBX Scene from C:/Users/Benna/OneDrive/Dokument/3D Models/CanCanBroken.fbx
+[2021.10.12-11.52.38:533][911]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.12-11.52.38:569][911]LogFbx: Display: Triangulating static mesh Can
+[2021.10.12-11.52.38:659][911]LogStaticMesh: Building static mesh SfuelBroken...
+[2021.10.12-11.52.38:680][911]LogStaticMesh: Built static mesh [0.02s] /Game/BendMappen/Models/SfuelBroken.SfuelBroken
+[2021.10.12-11.52.38:707][911]LogEditorFactories: -- imported successfully
+[2021.10.12-11.52.39:336][924]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/SfuelBrokenDDB4C20B4C0B7ED8579DD6B7C921B58F.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Models/SfuelBroken.uasset'
+[2021.10.12-11.52.39:358][924]AssetCheck: New page: Asset Save: SfuelBroken
+[2021.10.12-11.52.39:358][924]LogContentValidation: Display: Validating StaticMesh /Game/BendMappen/Models/SfuelBroken.SfuelBroken
+[2021.10.12-11.52.45:761][ 27]LogSlate: Window 'Message' being destroyed
+[2021.10.12-11.52.45:773][ 27]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/BendMappen/Materials/Table.Table
+(Selecting 'No' will cause all changes to be lost!)
+[2021.10.12-11.52.46:294][ 27]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: AC7645C674A5B4426D99AD5148D516DFFBE150BB), compiling. 
+[2021.10.12-11.52.46:328][ 27]LogMaterial: Display: Missing cached shadermap for Table in PCD3D_SM5, Default, SM5 (DDC key hash: 8A670CF1E693119B6A0A8A87C2EE8EB17BC55D8B), compiling. 
+[2021.10.12-11.52.46:411][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.10.12-11.52.46:545][ 27]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.12-11.52.46:545][ 27]LogShaderCompilers: Display: Total job queries 2009, among them cache hits 1254 (62.42%)
+[2021.10.12-11.52.46:545][ 27]LogShaderCompilers: Display: Tracking 719 distinct input hashes that result in 263 distinct outputs (36.58%)
+[2021.10.12-11.52.46:545][ 27]LogShaderCompilers: Display: RAM used: 1.62 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.20%
+[2021.10.12-11.52.46:545][ 27]LogShaderCompilers: Display: ================================================
+[2021.10.12-11.52.46:581][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.10.12-11.52.46:637][ 27]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-11.52.46:637][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.52.47:385][ 54]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-11.52.47:385][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.52.47:776][ 68]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-11.52.47:777][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.52.48:101][ 83]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-11.52.48:101][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.52.48:382][ 96]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-11.52.48:382][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.53.02:275][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanCanBroken)
+[2021.10.12-11.53.33:587][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.12-11.53.34:587][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.10.12-11.53.34:632][796]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel7AD5E7784E03E90637DE16BAC40E3FF1.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-11.53.34:655][796]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-11.53.34:655][796]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-11.53.38:868][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SfuelBroken)
+[2021.10.12-11.53.39:276][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanCanBroken)
+[2021.10.12-11.53.40:636][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SfuelBroken)
+[2021.10.12-11.53.41:377][191]LogEditorViewport: Clicking on Actor (LMB): Trash_C (Trash51)
+[2021.10.12-11.53.44:621][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanCanBroken)
+[2021.10.12-11.54.10:464][844]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2021.10.12-11.54.10:485][844]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2021.10.12-11.54.11:703][917]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> NewUserDefinedStruct
+[2021.10.12-11.54.11:766][917]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2021.10.12-11.54.13:518][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.10.12-11.54.15:062][ 14]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.12-11.54.15:201][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.10.12-11.54.27:590][664]LogContentBrowser: Deferred new asset file creation: Trash_Child
+[2021.10.12-11.54.27:635][664]LogContentBrowser: Creating deferred item: Trash_Child
+[2021.10.12-11.54.36:611][ 91]LogContentBrowser: Attempting asset rename: Trash_Child -> Can
+[2021.10.12-11.54.36:624][ 91]LogContentBrowser: End creating deferred item Trash_Child
+[2021.10.12-11.54.40:219][269]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Can.Can
+[2021.10.12-11.55.00:158][ 41]BlueprintLog: New page: Compile Can
+[2021.10.12-11.55.00:221][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.10.12-11.55.00:994][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Can" FILE="../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/Blueprints/Can.uasset" SILENT=true
+[2021.10.12-11.55.01:035][ 71]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/CanF077C0DC41831765C249F2812E5BFB44.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/Blueprints/Can.uasset'
+[2021.10.12-11.55.01:064][ 71]AssetCheck: New page: Asset Save: Can
+[2021.10.12-11.55.01:064][ 71]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Can.Can
+[2021.10.12-11.55.02:936][149]LogSlate: Window 'Can' being destroyed
+[2021.10.12-11.55.02:954][149]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-11.55.02:954][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.55.12:201][668]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.12-11.55.12:213][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.12-11.55.12:214][668]PIE: New page: PIE session: BendsLevel (12 okt. 2021 15:55:12)
+[2021.10.12-11.55.12:237][668]LogPlayLevel: Creating play world package: /Game/BendMappen/Level/UEDPIE_0_BendsLevel
+[2021.10.12-11.55.12:256][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018884s)
+[2021.10.12-11.55.12:259][668]LogAIModule: Creating AISystem for world BendsLevel
+[2021.10.12-11.55.12:259][668]LogPlayLevel: PIE: World Init took: (0.002707s)
+[2021.10.12-11.55.12:259][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BendMappen/Level/BendsLevel.BendsLevel to /Game/BendMappen/Level/UEDPIE_0_BendsLevel.BendsLevel (0.021923s)
+[2021.10.12-11.55.12:285][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.10.12-11.55.12:289][668]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.12-11.55.12:289][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.12-11.55.12:289][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.12-11.55.12:289][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.12-11.55.12:289][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.12-11.55.12:289][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.12-11.55.12:289][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.12-11.55.12:289][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.12-11.55.12:289][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.12-11.55.12:291][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.12-11.55.12:291][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.12-11.55.12:291][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.12-11.55.12:291][668]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.12-11.55.12:300][668]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.12-11.55.12:300][668]LogAudioMixer: Display: 1: FrontRight
+[2021.10.12-11.55.12:336][668]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.10.12-11.55.12:336][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.12-11.55.12:336][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.12-11.55.12:336][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.12-11.55.12:337][668]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.12-11.55.12:337][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.12-11.55.12:337][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.12-11.55.12:339][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.12-11.55.12:339][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.12-11.55.12:339][668]LogInit: FAudioDevice initialized.
+[2021.10.12-11.55.12:339][668]LogAudio: Display: Audio Device (ID: 4) registered with world 'BendsLevel'.
+[2021.10.12-11.55.12:359][668]LogLoad: Game class is 'GameModeBase'
+[2021.10.12-11.55.12:364][668]LogWorld: Bringing World /Game/BendMappen/Level/UEDPIE_0_BendsLevel.BendsLevel up for play (max tick rate 60) at 2021.10.12-13.55.12
+[2021.10.12-11.55.12:364][668]LogWorld: Bringing up level for play took: 0.004317
+[2021.10.12-11.55.12:364][668]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.10.12-11.55.12:369][668]PIE: Server logged in
+[2021.10.12-11.55.12:371][668]PIE: Play in editor total start time 0,158 seconds.
+[2021.10.12-11.55.33:148][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.12-11.55.33:148][908]LogWorld: BeginTearingDown for /Game/BendMappen/Level/UEDPIE_0_BendsLevel
+[2021.10.12-11.55.33:148][908]LogWorld: UWorld::CleanupWorld for BendsLevel, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-11.55.33:149][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.55.33:161][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.12-11.55.33:175][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.55.33:196][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-11.55.33:197][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.12-11.55.33:198][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.12-11.55.33:224][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.12-11.55.33:228][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.10.12-11.55.33:260][909]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.10.12-11.55.34:920][  7]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.12-11.55.38:226][203]LogEditorViewport: Clicking on Actor (context menu): Trash_C (Trash51)
+[2021.10.12-11.55.44:227][537]LogEditorViewport: Clicking on Actor (LMB): Can_C (Can)
+[2021.10.12-11.55.47:845][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.12-11.55.49:180][830]Cmd: TRANSACTION UNDO
+[2021.10.12-11.55.49:180][830]LogEditorTransaction: Undo Move Actors
+[2021.10.12-11.55.49:785][854]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.12-11.56.02:286][596]LogEditorViewport: Clicking on Actor (LMB): Can_C (Can3)
+[2021.10.12-11.56.07:417][898]Cmd: DUPLICATE
+[2021.10.12-11.56.07:417][898]Cmd: ACTOR DUPLICATE
+[2021.10.12-11.56.08:055][934]Cmd: DUPLICATE
+[2021.10.12-11.56.08:055][934]Cmd: ACTOR DUPLICATE
+[2021.10.12-11.56.08:237][943]Cmd: DUPLICATE
+[2021.10.12-11.56.08:237][943]Cmd: ACTOR DUPLICATE
+[2021.10.12-11.56.08:386][950]Cmd: DUPLICATE
+[2021.10.12-11.56.08:386][950]Cmd: ACTOR DUPLICATE
+[2021.10.12-11.56.08:534][957]Cmd: DUPLICATE
+[2021.10.12-11.56.08:534][957]Cmd: ACTOR DUPLICATE
+[2021.10.12-11.56.08:678][964]Cmd: DUPLICATE
+[2021.10.12-11.56.08:678][964]Cmd: ACTOR DUPLICATE
+[2021.10.12-11.56.08:826][971]Cmd: DUPLICATE
+[2021.10.12-11.56.08:826][971]Cmd: ACTOR DUPLICATE
+[2021.10.12-11.56.12:963][208]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.12-11.56.12:974][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.12-11.56.12:975][208]PIE: New page: PIE session: BendsLevel (12 okt. 2021 15:56:12)
+[2021.10.12-11.56.12:975][208]LogPlayLevel: Creating play world package: /Game/BendMappen/Level/UEDPIE_0_BendsLevel
+[2021.10.12-11.56.12:992][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016664s)
+[2021.10.12-11.56.12:993][208]LogAIModule: Creating AISystem for world BendsLevel
+[2021.10.12-11.56.12:994][208]LogPlayLevel: PIE: World Init took: (0.002251s)
+[2021.10.12-11.56.12:994][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BendMappen/Level/BendsLevel.BendsLevel to /Game/BendMappen/Level/UEDPIE_0_BendsLevel.BendsLevel (0.019208s)
+[2021.10.12-11.56.13:027][208]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2021.10.12-11.56.13:035][208]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.10.12-11.56.13:035][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.12-11.56.13:035][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.12-11.56.13:035][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.12-11.56.13:035][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.12-11.56.13:035][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.12-11.56.13:035][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.12-11.56.13:035][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.12-11.56.13:035][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.12-11.56.13:036][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.12-11.56.13:036][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.12-11.56.13:036][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.12-11.56.13:036][208]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.12-11.56.13:045][208]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.12-11.56.13:045][208]LogAudioMixer: Display: 1: FrontRight
+[2021.10.12-11.56.13:089][208]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.10.12-11.56.13:090][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.12-11.56.13:090][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.12-11.56.13:090][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.12-11.56.13:091][208]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.12-11.56.13:091][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.12-11.56.13:091][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.12-11.56.13:092][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.12-11.56.13:092][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.12-11.56.13:092][208]LogInit: FAudioDevice initialized.
+[2021.10.12-11.56.13:092][208]LogAudio: Display: Audio Device (ID: 5) registered with world 'BendsLevel'.
+[2021.10.12-11.56.13:102][208]LogLoad: Game class is 'GameModeBase'
+[2021.10.12-11.56.13:110][208]LogWorld: Bringing World /Game/BendMappen/Level/UEDPIE_0_BendsLevel.BendsLevel up for play (max tick rate 60) at 2021.10.12-13.56.13
+[2021.10.12-11.56.13:110][208]LogWorld: Bringing up level for play took: 0.006840
+[2021.10.12-11.56.13:110][208]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.10.12-11.56.13:114][208]PIE: Server logged in
+[2021.10.12-11.56.13:115][208]PIE: Play in editor total start time 0,142 seconds.
+[2021.10.12-11.57.03:118][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.12-11.57.03:118][203]LogWorld: BeginTearingDown for /Game/BendMappen/Level/UEDPIE_0_BendsLevel
+[2021.10.12-11.57.03:119][203]LogWorld: UWorld::CleanupWorld for BendsLevel, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-11.57.03:119][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.57.03:131][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.12-11.57.03:142][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-11.57.03:163][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-11.57.03:164][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.12-11.57.03:165][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.12-11.57.03:174][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.12-11.57.03:178][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.10.12-11.57.03:212][204]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.10.12-11.57.08:046][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.12-11.57.11:085][671]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.12-11.57.14:975][899]LogEditorViewport: Clicking on Actor (LMB): Can_C (Can29)
+[2021.10.12-11.57.15:387][922]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.12-11.57.23:049][376]Cmd: DELETE
+[2021.10.12-11.57.23:049][376]Cmd: ACTOR DELETE
+[2021.10.12-11.57.23:072][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:073][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:074][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:075][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:076][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:077][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:078][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:080][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:081][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:081][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:082][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:082][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:083][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:084][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:085][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:086][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:087][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:087][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:088][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:089][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:091][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:093][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:094][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:094][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:095][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:095][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:096][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:097][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:097][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:098][376]LogEditorActor: Deleted Actor: Can_C
+[2021.10.12-11.57.23:125][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.10.12-11.57.23:129][376]LogEditorActor: Deleted 30 Actors (0.081 secs)
+[2021.10.12-11.57.28:109][674]LogEditorViewport: Clicking on Actor (LMB): Trash_C (Trash51)
+[2021.10.12-11.57.41:543][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.12-11.57.41:585][461]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel8B46428E47F57E9FEC0315930BD1B4F6.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-11.57.41:612][461]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-11.57.41:612][461]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-11.57.53:887][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.10.12-11.57.53:933][183]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevelAC8285CF41DCBCABAB64AA81EFF4BFC9.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-11.57.53:959][183]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-11.57.53:959][183]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-11.59.06:800][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.10.12-11.59.06:836][229]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevelAC3C6D8D43AAA00A5DC1189DABBCF2B3.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-11.59.06:859][229]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-11.59.06:859][229]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-12.09.06:876][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.10.12-12.09.06:878][ 86]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BendMappen/Level/BendsLevel' took 0.023
+[2021.10.12-12.09.06:879][ 86]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BendMappen/Materials/Table] ([1] browsable assets)...
+[2021.10.12-12.09.06:893][ 86]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BendMappen/Materials/Table.Table]
+[2021.10.12-12.09.06:893][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/BendMappen/Materials/Table]
+[2021.10.12-12.09.06:901][ 86]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Table_Auto581AAA5FA4771F834C13F9ABD5708260A.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/Autosaves/Game/BendMappen/Materials/Table_Auto5.uasset'
+[2021.10.12-12.09.06:902][ 86]LogFileHelpers: Auto-saving content packages took 0.023
+[2021.10.12-14.02.32:993][824]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_REMOVED
+[2021.10.12-14.02.32:994][824]LogD3D11RHI: [Aftermath] GDynamicRHI=00000241EA02B900, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.10.12-14.02.32:994][824]LogWindows: Windows GetLastError: Åtgärden har slutförts. (0)
+[2021.10.12-14.02.37:385][825]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.10.12-14.02.37:385][825]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2021.10.12-14.02.37:385][825]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.10.12-14.02.37:385][825]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.10.12-14.02.37:385][825]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2021.10.12-14.02.37:385][825]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.10.12-14.02.37:391][825]Log file closed, 10/12/21 16:02:37
