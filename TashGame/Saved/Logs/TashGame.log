@@ -3089,3 +3089,96 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.12-10.12.13:280][ 93]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel8E940E494CDDFE85311034913809870B.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
 [2021.10.12-10.12.13:299][ 93]AssetCheck: New page: Asset Save: BendsLevel
 [2021.10.12-10.12.13:299][ 93]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-10.15.44:797][637]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.12-10.17.43:634][ 98]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/BendMappen/Texture/Can/Can_Albedo.Can_Albedo
+[2021.10.12-10.17.50:125][717]LogSlate: Window 'Can_Albedo' being destroyed
+[2021.10.12-10.17.50:134][717]LogSlate: Window 'Can_Albedo' being destroyed
+[2021.10.12-10.17.50:743][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SfuelCan)
+[2021.10.12-10.17.57:398][571]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.10.12-10.18.03:810][312]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.12-10.18.06:930][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SfuelBroken)
+[2021.10.12-10.18.11:599][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.12-10.18.15:683][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.10.12-10.18.15:725][661]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel17BBADDE462551A3AE70ADAEC00E3005.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-10.18.15:742][661]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-10.18.15:742][661]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-10.19.06:509][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.10.12-10.19.06:548][534]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevelE048B76D4A73EEF712D166A8AE2F1238.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-10.19.06:573][534]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-10.19.06:573][534]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-10.19.25:081][715]LogEditorViewport: Clicking on Actor (LMB): A_C (A)
+[2021.10.12-10.19.30:214][152]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/SuckLight.SuckLight
+[2021.10.12-10.19.46:156][468]LogSlate: Window 'SuckLight' being destroyed
+[2021.10.12-10.19.46:213][468]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-10.19.46:213][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-10.19.47:683][578]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Material.Material
+[2021.10.12-10.19.47:685][578]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 9CACE493EF45C480BF02614E4B5E78D5BB00BFEA), compiling. 
+[2021.10.12-10.19.47:706][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.12-10.19.47:706][578]LogShaderCompilers: Display: Total job queries 1414, among them cache hits 819 (57.92%)
+[2021.10.12-10.19.47:706][578]LogShaderCompilers: Display: Tracking 575 distinct input hashes that result in 176 distinct outputs (30.61%)
+[2021.10.12-10.19.47:706][578]LogShaderCompilers: Display: RAM used: 1.04 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2021.10.12-10.19.47:706][578]LogShaderCompilers: Display: ================================================
+[2021.10.12-10.19.47:794][578]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: FD8459D0A7C513AEB047244324218721DD879F72), compiling. 
+[2021.10.12-10.19.47:796][578]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 1A42D472AC68FF57F055487B87910DEB9E627FC2), compiling. 
+[2021.10.12-10.19.47:798][578]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EE1B44ACB7906E94002EA29CB0851013B0A00AE7), compiling. 
+[2021.10.12-10.19.47:811][578]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.12-10.19.47:883][579]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.10.12-10.19.47:884][579]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.10.12-10.19.47:884][579]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.10.12-10.19.47:884][579]MaterialEditorStats: Texture samplers: 2/16
+[2021.10.12-10.19.49:817][711]LogSlate: Window 'Material' being destroyed
+[2021.10.12-10.19.49:850][711]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-10.19.49:850][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-10.19.50:852][781]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/SuckLight.SuckLight
+[2021.10.12-10.20.02:123][697]LogRenderer: Reallocating scene render targets to support 1532x696 Format 10 NumSamples 1 (Frame:19).
+[2021.10.12-10.20.03:841][834]Cmd: TRANSACTION UNDO
+[2021.10.12-10.20.03:841][834]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.12-10.20.50:370][887]LogSlate: Window 'SuckLight' being destroyed
+[2021.10.12-10.20.50:413][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.10.12-10.20.50:483][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.10.12-10.20.50:533][887]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-10.20.50:533][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-10.20.51:952][  9]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/SuckLight.SuckLight
+[2021.10.12-10.20.55:543][303]LogSlate: Window 'SuckLight' being destroyed
+[2021.10.12-10.20.55:581][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.10.12-10.20.55:630][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.10.12-10.20.55:674][303]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-10.20.55:674][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-10.21.32:722][839]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/A.A
+[2021.10.12-10.21.57:060][407]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/SuckLight.SuckLight
+[2021.10.12-10.22.00:549][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.10.12-10.22.00:595][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.10.12-10.22.00:609][689]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-10.22.00:609][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-10.22.01:438][745]LogSlate: Window 'A' being destroyed
+[2021.10.12-10.22.01:473][745]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-10.22.01:473][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-10.22.16:255][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.12-10.22.16:289][162]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevelE8B78CCA4581059E442664A1DB44B6FF.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-10.22.16:307][162]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-10.22.16:307][162]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-10.22.20:401][618]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.12-10.22.21:341][722]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.12-10.22.21:714][765]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.12-10.22.21:759][769]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.10.12-10.22.24:709][ 98]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.10.12-10.25.43:372][910]LogEditorFactories: Performing atomic reimport of [C:/Users/Benna/OneDrive/Dokument/QuixelMixer/Quixel/Table/Table_Roughness.png]
+[2021.10.12-10.25.43:377][910]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Benna/OneDrive/Dokument/QuixelMixer/Quixel/Table/Table_Roughness.png)
+[2021.10.12-10.25.43:511][910]LogTexture: Display: Building textures: Table_Roughness (OODLE_AutoDXT, 2048X2048)
+[2021.10.12-10.25.43:817][910]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.12-10.25.43:817][910]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.12-10.25.43:818][910]LogEditorFactories: -- imported successfully
+[2021.10.12-10.25.45:379][ 74]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/BendMappen/Texture/Table/Table_Roughness.Table_Roughness
+[2021.10.12-10.25.49:646][413]LogSlate: Window 'Table_Roughness' being destroyed
+[2021.10.12-10.25.52:012][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.12-10.25.52:060][659]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel916E63DA44BD083FFBE35D957794E9FC.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-10.25.52:081][659]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-10.25.52:081][659]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-10.26.05:739][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.12-10.26.05:772][227]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel78F63457467BD109B04361BFA2A594EA.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-10.26.05:794][227]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-10.26.05:794][227]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
+[2021.10.12-10.26.06:872][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.12-10.26.06:902][342]LogSavePackage: Moving '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Saved/BendsLevel03CDD1D64C391694B49122A421E55339.tmp' to '../../../../../../Users/Benna/OneDrive/Dokument/Unreal Projects/MinimizeWaste_Unreal/TashGame/Content/BendMappen/Level/BendsLevel.umap'
+[2021.10.12-10.26.06:920][342]AssetCheck: New page: Asset Save: BendsLevel
+[2021.10.12-10.26.06:921][342]LogContentValidation: Display: Validating World /Game/BendMappen/Level/BendsLevel.BendsLevel
