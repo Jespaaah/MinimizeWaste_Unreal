@@ -78,6 +78,21 @@ TashGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 TashGame/Saved/Logs/TashGame.log
 *.log
 # Folders to ignore
+TashGame/Saved/Logs
 Saved/Logs
+/Logs
+**/Logs
+
 TashGame/Saved/Logs/TashGame.log
+TashGame/Saved/Logs/TashGame.log
+*.log
+*.ini
+*.bin
+*.log
+TashGame/Saved/Logs/TashGame-backup-2021.10.07-11.41.32.log
+TashGame/Saved/Logs/TashGame.log
+TashGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+TashGame/Intermediate/ReimportCache/3688439234.bin
+TashGame/Intermediate/CachedAssetRegistry.bin
+log/*.*
 TashGame/Saved/Logs/TashGame.log
