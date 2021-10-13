@@ -79,3 +79,4 @@ TashGame/Saved/Logs/TashGame.log
 *.log
 # Folders to ignore
 Saved/Logs
+TashGame/Saved/Logs/TashGame.log
