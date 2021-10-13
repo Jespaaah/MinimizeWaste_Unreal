@@ -76,3 +76,4 @@ TashGame/Saved/Logs/TashGame.log
 TashGame/Saved/Config/Windows/Engine.ini
 TashGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 TashGame/Saved/Logs/TashGame.log
+*.log
