@@ -1,6 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+
 # Compiled Object files
 *.slo
 *.lo
@@ -46,6 +51,7 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
+Binaries
 Binaries/*
 Plugins/*/Binaries/*
 
@@ -71,4 +77,12 @@ Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
+DerivedDataCache
 DerivedDataCache/*
+TashGame/Saved/Logs/TashGame.log
+TashGame/Saved/Config/Windows/Engine.ini
+TashGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+TashGame/Saved/Logs/TashGame.log
+*.log
+
+TashGame/Config/DefaultEditorPerProjectUserSettings.ini
